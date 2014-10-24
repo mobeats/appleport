@@ -8,7 +8,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Appleport.de</title>
-		<meta name="keywords" content="trustedplaces, responsive, html5, one page, landing, mobile app, business, corporate, project">
+		<meta name="keywords" content="appleport, responsive, html5, one page, landing, mobile app, business, corporate, project">
 		<meta name="description" content="I'm selling Trustedplaces.de at sedo">		
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">		
 		<link href="css/bootstrap.css" rel="stylesheet"> 
@@ -22,7 +22,7 @@
 	<body>
 		
 		<div class="selling text-center">
-			<a href="http://www.sedo.de/search/details.php4?domain=trustedplaces.de" target="_blank">Diese Domain kaufen.</a>
+			<a href="http://www.sedo.de/search/details.php4?domain=appleport.de" target="_blank">Diese Domain kaufen.</a>
 		</div>
 						
 		<div id="preloader">
