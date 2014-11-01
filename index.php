@@ -21,7 +21,7 @@
 	
 	<body>
 		
-		<div class="selling text-center">
+		<div class="navbar-fixed-top selling text-center">
 			<a href="http://www.sedo.de/search/details.php4?domain=appleport.de" target="_blank">Diese Domain kaufen.</a>
 		</div>
 						
@@ -43,12 +43,6 @@
 						</li>
 					</ul>
 				</div>
-				
-				<!-- Scroll Down Button
-				<div class="scroll-down text-center"> 
-					<a href="http://www.sedo.com" target="_blank">Buy it at sedo</a>
-				</div>	
-				-->	
 					
 				<div class="scroll-down text-center"> 		
 					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
