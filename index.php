@@ -24,35 +24,23 @@
 		<div class="navbar-fixed-top selling text-center">
 			<a href="http://www.sedo.de/search/details.php4?domain=appleport.de" target="_blank">Diese Domain kaufen.</a>
 		</div>
-						
-		<div id="preloader">
-			<div id="status"></div>
-		</div>
-		
+
 		<div id="content_wrapper">
 		
 			<section id="intro">
 				<div id="slides">
-					<ul class="_slides-container">
-						<li>
-							<div class="intro-content">
-								<h1>Hallo,</h1>
-								<h3>Ich verkaufe <a href="http://www.sedo.com/search/details.php4?domain=appleport.de" target="_blank">Appleport.de</a></h3>
-							</div>
-							<img src="img/slider/intro_slide_3.jpg" alt="">
-						</li>
-					</ul>
-				</div>
-					
-				<div class="scroll-down text-center"> 		
-					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<!-- 468x60 -->
-					<ins class="adsbygoogle"
-					     data-ad-client="ca-pub-9689491153678746"
-					     data-ad-slot="4122314526"></ins>
-					<script>
-					(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
+					<div class="intro-content">
+						<h1>Hallo,</h1>
+						<h3>Ich verkaufe <a href="http://www.sedo.com/search/details.php4?domain=appleport.de" target="_blank">Appleport.de</a></h3>
+						<br />
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<ins class="adsbygoogle"
+						     data-ad-client="ca-pub-9689491153678746"
+						     data-ad-slot="4122314526"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+					</div>
 				</div>
 								
 			</section>	<!-- END INTRO -->			

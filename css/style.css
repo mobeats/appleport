@@ -41,6 +41,10 @@ Tags: responsive, html5 template, one page, landing page, mobile, application, b
 /*	 Preload Animation 
 /*------------------------------------------*/
 
+body {
+	background: url("../img/slider/intro_slide_3.jpg") top center no-repeat;
+}
+
 #preloader{
 	position: fixed;
 	top: 0;
