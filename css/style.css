@@ -944,6 +944,8 @@ a:focus {
 
 #footer {
 	padding: 30px 10%;
+	background: white;
+	margin-top: -15%;
 }
 
 /*------------------------------------------*/
