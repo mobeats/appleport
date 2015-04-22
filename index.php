@@ -51,7 +51,7 @@
   				function showImprint(){var imprintwnd = window.open('','pcrew_imprint','width=640,height=480,left=200,top=200,menubar=no,status=yes,toolbar=no');imprintwnd.document.writeln("");imprintwnd.document.close();}function showPolicy(){policywnd = window.open('http://www.parkingcrew.net/privacy.html','pcrew_policy','width=890,height=330,left=200,top=200,menubar=no,status=yes,toolbar=no');policywnd.focus();}
   				</script>
 				<p>
-				2014 Copyright.  All Rights Reserved. <br/><br/>
+				2015 Copyright.  All Rights Reserved. <br/><br/>
 				Die hier angezeigten Sponsored Listings werden von dritter Seite automatisch generiert und stehen weder mit dem Domaininhaber noch mit dem Dienstanbieter in irgendeiner Beziehung. Sollten markenrechtliche Probleme auftreten, wenden Sie sich bitte direkt an den Domaininhaber, welcher aus dem Whois ersichtlich wird.
 				<br/><br/>
 				<a href="javascript:void(0);" onClick="showPolicy();">Privacy Policy</a>
